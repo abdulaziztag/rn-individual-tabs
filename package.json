@@ -1,6 +1,6 @@
 {
   "name": "rn-individual-tabs",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Tab UI component for RN and Expo",
   "keywords": [
     "react-native",
@@ -9,6 +9,10 @@
     "rn-tabs",
     "ui"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abdulaziztag/rn-individual-tabs"
+  },
   "author": "Abdulaziz Manopov <mannopov481@gmail.com>",
   "license": "MIT",
   "scripts": {

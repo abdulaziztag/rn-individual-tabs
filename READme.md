@@ -2,7 +2,7 @@
 
 Easy to use individual tab component for React-native and expo apps.
 <br>
-![https://im3.ezgif.com/tmp/ezgif-3-dde311ce62.gif](https://im3.ezgif.com/tmp/ezgif-3-dde311ce62.gif)
+![example](/example.gif)
 ## Installation
 
 ```
